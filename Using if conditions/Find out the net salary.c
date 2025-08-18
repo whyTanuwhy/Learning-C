@@ -1,10 +1,6 @@
 #include<stdio.h>
-#include<math.h>
 
-float gross;
-float deduct;
-float allowance;
-
+float gross,deduct, allowance;
 
 int main() {
 
